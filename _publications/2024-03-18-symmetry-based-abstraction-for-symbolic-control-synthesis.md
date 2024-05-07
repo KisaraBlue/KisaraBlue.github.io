@@ -4,7 +4,7 @@ collection: conference paper
 permalink: /publication/2024-03-18-symmetry-based-abstraction-for-symbolic-control-synthesis
 excerpt: 'An efficient symbolic control synthesis algorithm for equivariant continuous-time dynamical systems to satisfy reach-avoid specifications.'
 date: 2024-03-18
-venue: 'NASA Formal Methods 2024'
+venue: 'NASA Formal Methods'
 paperurl: 'https://arxiv.org/abs/2403.11816'
 citation: 'Sibai, Hussein, et al. "Symmetry-based Abstraction Algorithm for Accelerating Symbolic Control Synthesis." arXiv preprint arXiv:2403.11816 (2024).'
 ---
