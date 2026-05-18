@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Most recent [CV](http://kisarablue.github.io/files/cv_may_2024.pdf)
+Most recent [CV](http://kisarablue.github.io/files/Résumé-January2025-1.pdf)
 
 Site in construction.
