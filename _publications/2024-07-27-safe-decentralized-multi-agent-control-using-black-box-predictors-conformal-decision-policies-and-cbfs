@@ -1,0 +1,12 @@
+---
+title: "Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions"
+collection: publications
+permalink: /publication/2024-07-27-safe-decentralized-multi-agent-control-using-black-box-predictors-conformal-decision-policies-and-cbfs
+excerpt: 'We use the recently proposed conformal decision theory to adapt the restrictiveness of control barrier functions-based safety constraints based on observed prediction errors.'
+date: 2024-07-27
+venue: 'IEEE International Conference on Robotics and Automation 2025'
+paperurl: 'https://arxiv.org/pdf/2409.18862'
+citation: 'S. Huriot and H. Sibai, "Safe Decentralized Multi-Agent Control using Black-Box Predictors, Conformal Decision Policies, and Control Barrier Functions." arXiv preprint arXiv:2409.18862 (2024).'
+---
+
+We address the challenge of safe control in decentralized multi-agent robotic settings, where agents use uncertain black-box models to predict other agents' trajectories. We use the recently proposed conformal decision theory to adapt the restrictiveness of control barrier functions-based safety constraints based on observed prediction errors. We use these constraints to synthesize controllers that balance between the objectives of safety and task accomplishment, despite the prediction errors. We provide an upper bound on the average over time of the value of a monotonic function of the difference between the safety constraint based on the predicted trajectories and the constraint based on the ground truth ones. We validate our theory through experimental results showing the performance of our controllers when navigating a robot in the multi-agent scenes in the Stanford Drone Dataset.
